@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/mslearn-create-webapi.props" />
+</Project>
